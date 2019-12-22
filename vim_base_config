@@ -1,2 +1,5 @@
-########### 显示设置 ############
+# 如果Taglist插件启动不成功，执行下列命令：
+sudo apt-get install ctags 
+
+
 
